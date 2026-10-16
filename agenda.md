@@ -20,3 +20,18 @@
 ## Workbook 1c read pages 55-68
 - Then start working through the exercises.
 
+# Day 5
+
+- Scanners Exercise (Basic Calculator page 87)
+- Learning Tips and AI (together)
+- Conditionals 
+  - Introduction (autocomplete tips)
+  - Read Conditionals section (on own) 
+  - Sandwhich Shop Exercise
+
+- Methods
+  - Overview Big Picture
+  - Demos
+    - simple
+    - return value
+    - parameters
