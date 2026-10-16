@@ -22,7 +22,7 @@
 
 # Day 5
 
-- Scanners Exercise (Basic Calculator page 87)
+- Scanners Exercise (Basic Calculator page 87 and Payroll Calculator page 88)
 - Learning Tips and AI (together)
 - Conditionals 
   - Introduction (autocomplete tips)
